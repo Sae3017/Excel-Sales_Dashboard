@@ -36,5 +36,31 @@ Combine KPI cards, charts, reporting dates, and interactive filters into a singl
 
 
 
+## Project Insight
+The following insights are based on the values displayed in your dashboard.
+1. Laptop is the top-performing product
+Laptop sales reached ₹3,00,000, making it the highest-revenue product in the displayed product chart.
+2. Hyderabad leads regional sales
+Hyderabad generated ₹1,86,400, followed by Mumbai at ₹1,31,200, Bengaluru at ₹1,30,000, and Chennai at ₹99,000.
+3. Sales peaked on 6 September
+The daily sales chart shows the highest individual daily value at ₹1,20,000 on 6 September 2026.
+4. UPI is the most-used payment method
+UPI accounted for 7 orders (46.67%), while Card and Cash each accounted for 4 orders (26.67%).
+5. Delivery performance is relatively strong
+12 out of 15 orders were delivered, giving an 80% delivery rate.
+6. Some orders require follow-up
+Two orders were pending (13.33%) and one was cancelled (6.67%). Together, these represent 20% of all orders.
+7. Electronics is the leading category
+The dashboard reports Electronics sales of ₹3,60,000, indicating that this category contributes substantially to overall revenue.
+Management recommendations
+Prioritize laptop inventory and promotional campaigns while monitoring profitability.
+Study Hyderabad's sales performance to identify practices that could be applied in other regions.
+Investigate the reasons for daily sales peaks and use those patterns to inform future campaigns.
+Continue supporting UPI payments while retaining other payment options.
+Follow up on pending orders and analyze cancellation reasons to improve order fulfillment.
+
+
+
+
 
 

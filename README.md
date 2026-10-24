@@ -1,2 +1,3 @@
-# Excel-Sales_Dashboard
-Excel project for retail sales analysis and dashboard creation
+# Excel-Sales-Dashboard(Interactive Dashboard using MS Excel)
+## Project Objective
+Retail Sales Analysis and Performance Dashboard Using Microsoft Excel

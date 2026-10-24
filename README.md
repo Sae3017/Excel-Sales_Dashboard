@@ -19,6 +19,8 @@ Retail Sales Analysis and Performance Dashboard Using Microsoft Excel
 -How can sales and order performance be improved?
 
 
+## Dashboard
+
 
 ## Process
 Step 1: Data Collection

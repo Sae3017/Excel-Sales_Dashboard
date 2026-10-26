@@ -22,9 +22,6 @@ Retail Sales Analysis and Performance Dashboard Using Microsoft Excel
 - Dashboard Interaction <a href="https://github.com/Sae3017/Excel-Sales_Dashboard/blob/main/DASHBOARD(Screenshot%202026-10-26)%20.png">View Dashboard</a>
 
 
-## Dashboard
-
-
 ## Process
 Step 1: Data Collection
 Collect the retail sales transaction data containing order details, product information, sales amounts, dates, regions, payment methods, and order status.
@@ -36,6 +33,10 @@ Step 4: Data Visualization
 Create line charts, bar charts, and doughnut charts to represent sales trends, product performance, regional sales, payment methods, and order status.
 Step 5: Dashboard Development
 Combine KPI cards, charts, reporting dates, and interactive filters into a single dashboard using Microsoft Excel.
+
+
+## Dashboard
+<img width="862" height="624" alt="DASHBOARD(Screenshot 2026-10-26) " src="https://github.com/user-attachments/assets/f88a285f-f4a6-4054-88fa-f5eccba52824" />
 
 
 

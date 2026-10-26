@@ -9,9 +9,17 @@
 -  <a href="https://github.com/Sae3017/Excel-Sales_Dashboard/blob/main/Day%2020%20Of%20MS%20EXCEL(2).xlsx">Dataset<a/>
 
 ## Tools and Technologies
- **1**
-
-## Questions  (KPIs)
+ **1.Microsoft Excel**
+   a)Excel Tables
+   b)Data Cleaning
+   c)Excel Formulas
+   d)Sorting and Filtering
+   e)PivotTables
+   f)Charts
+   g)Slicers
+   h)Dashboard Design
+   
+## Qestions  (KPIs)
 - What is the total revenue generated?
 - What is the average revenue per order?
 - How many units were sold?
@@ -29,16 +37,16 @@
 
 
 ## Process
-Step 1: Data Collection
-Collect the retail sales transaction data containing order details, product information, sales amounts, dates, regions, payment methods, and order status.
-Step 2: Data Cleaning
-Check for missing values, duplicate orders, incorrect dates, inconsistent product names, and invalid numerical values.
-Step 3: Data Analysis
-Calculate total sales, average sales per order, total quantity, order counts, regional revenue, product-wise revenue, and order status percentages.
-Step 4: Data Visualization
-Create line charts, bar charts, and doughnut charts to represent sales trends, product performance, regional sales, payment methods, and order status.
-Step 5: Dashboard Development
-Combine KPI cards, charts, reporting dates, and interactive filters into a single dashboard using Microsoft Excel.
+ Step 1: Data Collection
+ Collect the retail sales transaction data containing order details, product information, sales amounts, dates, regions, payment methods, and order status.
+ Step 2: Data Cleaning
+ Check for missing values, duplicate orders, incorrect dates, inconsistent product names, and invalid numerical values.
+ Step 3: Data Analysis
+ Calculate total sales, average sales per order, total quantity, order counts, regional revenue, product-wise revenue, and order status percentages.
+ Step 4: Data Visualization
+ Create line charts, bar charts, and doughnut charts to represent sales trends, product performance, regional sales, payment methods, and order status.
+ Step 5: Dashboard Development
+ Combine KPI cards, charts, reporting dates, and interactive filters into a single dashboard using Microsoft Excel.
 
 
 ## Dashboard

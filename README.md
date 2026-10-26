@@ -1,9 +1,15 @@
 # Excel-Sales-Dashboard(Interactive Dashboard using MS Excel)
-## Project Objective
-Retail Sales Analysis and Performance Dashboard Using Microsoft Excel
+## Project Title
+ Retail Sales Analysis and Performance Dashboard Using Microsoft Excel
+
+## Project Domain
+ Retail / Sales Analytics
+
 ## Dataset used
 -  <a href="https://github.com/Sae3017/Excel-Sales_Dashboard/blob/main/Day%2020%20Of%20MS%20EXCEL(2).xlsx">Dataset<a/>
 
+## Tools and Technologies
+ **1**
 
 ## Questions  (KPIs)
 - What is the total revenue generated?
